@@ -1,142 +1,139 @@
-# Villa Agency 🏡
+# 🏡 Villa Agency
 
-Villa Agency is a modern real estate web application designed to help users explore, buy, sell, and rent premium villas and properties. The platform provides detailed property listings, advanced search functionality, and an intuitive user experience for both customers and property agents.
+## Project Overview
 
-## Features
+Villa Agency is a modern real estate web application designed to help users explore villas and premium properties through an attractive and user-friendly interface. The platform provides detailed property listings, property information, and a responsive browsing experience for potential buyers and investors.
 
-* Browse premium villa and property listings
-* View detailed property information
-* Search and filter properties based on preferences
-* Responsive and user-friendly interface
-* Property image galleries
-* Contact agents directly through the platform
-* Modern and attractive UI design
-* Mobile and desktop compatibility
+---
 
-## Technologies Used
-* React.js
-* react.js
-* HTML
-* CSS
+## 🌐 Live Demo
+
+👉 **Live Website:** https://2303a51141.github.io/VILLA_AGENCY_-/
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
 * JavaScript
-* Mangodb
-
-### State Management
-
-* React Context API
-* Custom React Hooks
-
-### Testing & Code Quality
-
-* Vitest
-* ESLint
-
-### Development Tools
-
-* npm / Bun
+* Bootstrap
 * Git & GitHub
+* GitHub Pages
 
-## Project Structure
+---
+
+## ✨ Features
+
+* Modern Real Estate Website Design
+* Property Listings Showcase
+* Property Details Section
+* Responsive User Interface
+* Mobile-Friendly Design
+* Interactive Navigation
+* Attractive Landing Page
+* Property Information Display
+* Contact Section
+* Smooth User Experience
+
+---
+
+## 📂 Project Structure
 
 ```text
-src/
-├── components/
-├── pages/
-├── context/
-├── hooks/
-├── data/
-├── lib/
-├── test/
-├── App.tsx
-├── main.tsx
-└── index.css
+VILLA_AGENCY_/
+│
+├── assets/
+│   ├── images/
+│   ├── css/
+│   └── js/
+│
+├── index.html
+├── properties.html
+├── property-details.html
+├── contact.html
+└── README.md
 ```
 
-## Installation
+## 🚀 Installation
 
-1. Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/2303a51141/VILLA_AGENCY_-.git
 ```
 
-2. Navigate to the project directory
+Navigate to the project folder:
 
 ```bash
 cd VILLA_AGENCY_-
 ```
 
-3. Install dependencies
+Open the project:
 
 ```bash
-npm install
+Open index.html in your browser
 ```
 
-4. Start the development server
-
-```bash
-npm run dev
-```
-
-5. Open the application in your browser
+Or visit the live website:
 
 ```text
-http://localhost:5173
+https://2303a51141.github.io/VILLA_AGENCY_-/
 ```
 
-## Build for Production
+---
 
-```bash
-npm run build
-```
+## 🎯 Project Objectives
 
-## Testing
+* Create a professional real estate website
+* Provide an engaging property browsing experience
+* Showcase modern UI/UX design principles
+* Improve frontend development skills
+* Build a responsive and accessible web application
 
-```bash
-npm run test
-```
+---
 
-## Key Functionalities
+## 📚 Learning Outcomes
 
-* Property listing management
-* Featured villa showcase
-* Property details and specifications
-* Property search and filtering
-* Agent contact and inquiry forms
-* Responsive navigation and layout
-* Interactive user experience
+* Frontend Web Development
+* Responsive Web Design
+* JavaScript DOM Manipulation
+* Website Layout Design
+* User Interface Development
+* Git & GitHub Version Control
+* Website Deployment using GitHub Pages
 
-## Future Enhancements
+---
 
-* User authentication and authorization
-* Property booking and scheduling visits
-* Property comparison feature
-* Favorites and wishlist functionality
-* Real-time chat with agents
-* Google Maps integration
-* Property recommendation system
-* Admin dashboard for property management
+## 🔗 Project Links
 
-## Learning Outcomes
+**🌐 Live Demo**
+https://2303a51141.github.io/VILLA_AGENCY_-/
 
-Through this project, I gained practical experience in:
+**💻 GitHub Repository**
+https://github.com/2303a51141/VILLA_AGENCY_-
 
-* Developing responsive web applications using React
-* Building reusable UI components
-* Managing application state with Context API
-* Creating modern user interfaces with Tailwind CSS
-* Working with TypeScript for scalable development
-* Testing applications using Vitest
-* Version control and collaboration using Git and GitHub
+---
 
-## Author
+## 👤 Author
 
-Mani Teja Patel
+**Mani Teja Patel Jarathi**
 
-GitHub: https://github.com/2303a51141
+B.Tech Computer Science & Engineering
+SR University
 
-LinkedIn: https://www.linkedin.com/in/mani-teja-patel-jarathi
+**GitHub:** https://github.com/2303a51141
 
-## License
+**LinkedIn:** https://www.linkedin.com/in/mani-teja-patel-jarathi
 
-This project is developed for educational, learning, and portfolio purposes.
+**Portfolio:** https://portfolio-mani00.vercel.app/
+
+---
+
+## 📜 License
+
+This project is developed for educational, learning, and portfolio demonstration purposes.
+
+---
+
+⭐ If you found this project interesting, consider giving the repository a star and connecting with me on LinkedIn.
